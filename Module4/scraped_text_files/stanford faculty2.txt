@@ -1,0 +1,594 @@
+[if lt IE 7]> <html class="ie6 ie" lang="en" dir="ltr"> <![endif]
+[if IE 7]>    <html class="ie7 ie" lang="en" dir="ltr"> <![endif]
+[if IE 8]>    <html class="ie8 ie" lang="en" dir="ltr"> <![endif]
+[if IE 9]>    <html class="ie9 ie" lang="en" dir="ltr"> <![endif]
+Set the viewport width to device width for mobile
+Faculty Profiles | Stanford Graduate School of Education
+IE Fix for HTML5 Tags
+Skip to content
+Skip to navigation
+<div id="admin-shortcuts" class="admin-shortcuts clearfix">   </div>
+/#admin-shortcuts
+move ID to class because we use this global header twice
+Future Students
+Current Students
+Faculty/Staff
+move ID to class because we use this global header twice
+Enter your keywords for search
+move ID to class because we use this global header twice
+/#global-header
+/#header-content
+Toggle navigation
+Enter your keywords for search
+Programs & Degrees
+Admission & Aid
+Faculty & Research
+move ID to class because we use this global header twice
+Future Students
+Current Students
+Faculty/Staff
+move ID to class because we use this global header twice
+Enter your keywords for search
+move ID to class because we use this global header twice
+/#main-menu
+/#inner-page-banner
+Faculty & Research
+.btn-navbar is used as the toggle for collapsed navbar content
+Toggle navigation
+Faculty Profiles
+Faculty Research Interests
+Research Centers
+Open Positions
+GSE Open Archive
+Resources for Faculty
+/#sidebar-first
+You are here
+Faculty & Research
+Faculty Profiles
+Faculty Profiles
+Program Affiliations
+CTE: Literacy, Language, and English Education
+CTE: Mathematics Education
+CTE: Science Education
+CTE: History/Social Science Education
+CTE: Teacher Education
+Learning Sciences and Technology Design (LSTD)
+Race, Inequality, and Language in Education (RILE)
+SHIPS (PhD)
+SHIPS (PhD): Administration and Policy Analysis
+SHIPS (PhD): Anthropology of Education
+SHIPS (PhD): Economics of Education
+SHIPS (PhD): Educational Linguistics
+SHIPS (PhD): Educational Policy
+SHIPS (PhD): Higher Education
+SHIPS (PhD): History of Education
+SHIPS (PhD): Organization Studies
+SHIPS (PhD): Philosophy of Education
+SHIPS (PhD): Social Sciences in Education
+SHIPS (PhD): Sociology of Education
+SHIPS (PhD): International Comparative Education
+(MA) ICE/IEPA
+(MA) MA/MBA
+Education and Jewish Studies
+Search by Name
+Antonio, Anthony Lising
+Associate Professor
+Ardoin, Nicole
+Associate Professor
+Atkin, J. Myron
+Professor Emeritus
+Bailenson, Jeremy
+Courtesy Professor
+Ball, Arnetha F.
+Professor Emerita
+Banks, Adam
+Banks, Richard
+Courtesy Professor
+Barr, Donald
+Courtesy Professor (Teaching)
+Barron, Brigid
+Baugh, John
+Professor Emeritus
+Bettinger, Eric
+Borko, Hilda
+Brazer, David
+Associate Professor (Teaching)
+Bromley, Patricia
+Assistant Professor
+Brown, Bryan
+Associate Professor
+Callan, Eamonn
+Professor Emeritus
+Carlson, Janet
+Associate Professor (Research)
+Carnoy, Martin
+Cohen, Geoffrey
+Colby, Anne
+Adjunct Professor
+Cox, Geoffrey
+Lecturer and Co-Director, POLS
+Cuban, Larry
+Professor Emeritus
+Damon, William
+Darling-Hammond, Linda
+Professor Emerita
+Dee, Thomas S.
+Domingue, Benjamin
+Assistant Professor
+Dweck, Carol
+Courtesy Professor
+Ehrlich, Thomas
+Adjunct Professor
+Forssell, Karin
+Garcia, Antero
+Assistant Professor
+Goldenberg, Claude
+Professor Emeritus
+Goldman, Shelley
+Professor (Teaching)
+Greeno, James
+Professor Emeritus
+Grossman, Pam
+Professor Emerita
+Gumport, Patricia J.
+Haertel, Edward
+Professor Emeritus
+Hakuta, Kenji
+Professor Emeritus
+Hanushek, Eric
+Courtesy Professor
+Hoagland, Gay
+Senior Lecturer
+Joshi, Shashank
+Courtesy Associate Professor
+Juel, Connie
+Professor Emerita
+Kamil, Michael
+Professor Emeritus
+Kelman, Ari Y.
+Associate Professor
+Kirst, Michael
+Professor Emeritus
+Koski, William
+Courtesy Professor (Teaching)
+Kozleski, Elizabeth
+Dean’s Senior Scholar for Teaching and Learning
+Krumboltz, John
+Professor Emeritus
+Kuboyama, Emi
+Co-Director, POLS
+Labaree, David F.
+Professor Emeritus
+LaFromboise, Teresa
+Langer-Osuna, Jennifer Marie
+Assistant Professor
+Levin, Henry
+Professor Emeritus
+Levine, Sarah
+Assistant Professor
+Associate Professor (Teaching)
+Lotan, Rachel
+Professor Emerita
+Loyalka, Prashant
+Assistant Professor
+Martínez, Ramón Antonio
+Assistant Professor
+Massy, William
+Professor Emeritus
+McCandliss, Bruce
+McDermott, Ray
+Professor Emeritus
+McFarland, Daniel A.
+McLaughlin, Milbrey
+Professor Emerita
+Meyerson, Debra
+Adjunct Professor
+Mitchell, John C.
+Courtesy Professor
+Courtesy Professor
+Moeller, Kathryn
+Visiting Assistant Professor
+Noddings, Nel
+Professor Emerita
+Obradović, Jelena
+Associate Professor
+Osborne, Jonathan
+Osgood, Brad
+Courtesy Professor
+Padilla, Amado
+Pecheone, Raymond L.
+Professor of the Practice
+Phillips, Denis
+Professor Emeritus
+Plank, David
+Professor (Research)
+Pope, Denise
+Senior Lecturer
+Porteus, Ann
+Senior Lecturer
+Powell, Woody
+Ramirez, Francisco
+Reardon, Sean F.
+Reeves, Byron
+Courtesy Professor
+Courtesy Professor
+Reininger, Michelle
+Assistant Professor (Research)
+Rogosa, David
+Associate Professor
+Rohlen, Thomas
+Professor Emeritus
+Rosa, Jonathan
+Assistant Professor
+Ruiz-Primo, Maria Araceli
+Associate Professor
+Schwartz, Dan
+I. James Quillen Dean
+Shavelson, Rich
+Professor Emeritus
+Shulman, Lee
+Professor Emeritus
+Silverman, Rebecca
+Associate Professor
+Smith, Sanne
+Solano-Flores, Guillermo
+Stevens, Mitchell L.
+Associate Professor
+Stipek, Deborah
+Strober, Myra
+Professor Emerita
+Thille, Candace
+Associate Professor (Teaching)
+Thoresen, Carl
+Professor Emeritus
+Valdes, Guadalupe
+Walker, Decker
+Professor Emeritus
+Wandell, Brian
+Courtesy Professor
+Weiler, Hans
+Professor Emeritus
+Wieman, Carl
+Williamson, Peter
+Associate Professor (Teaching)
+Willinsky, John
+Wineburg, Sam
+Winterer, Caroline
+Courtesy Professor
+Wolf, Jennifer
+Senior Lecturer
+Wotipka, Christine Min
+Associate Professor (Teaching)
+Program Affiliations
+CTE: Literacy, Language, and English Education
+CTE: Mathematics Education
+CTE: Science Education
+CTE: History/Social Science Education
+CTE: Teacher Education
+Learning Sciences and Technology Design (LSTD)
+Race, Inequality, and Language in Education (RILE)
+SHIPS (PhD)
+SHIPS (PhD): Administration and Policy Analysis
+SHIPS (PhD): Anthropology of Education
+SHIPS (PhD): Economics of Education
+SHIPS (PhD): Educational Linguistics
+SHIPS (PhD): Educational Policy
+SHIPS (PhD): Higher Education
+SHIPS (PhD): History of Education
+SHIPS (PhD): Organization Studies
+SHIPS (PhD): Philosophy of Education
+SHIPS (PhD): Social Sciences in Education
+SHIPS (PhD): Sociology of Education
+SHIPS (PhD): International Comparative Education
+(MA) ICE/IEPA
+(MA) MA/MBA
+Education and Jewish Studies
+Search by Name
+Antonio, Anthony Lising
+Associate Professor
+(650) 723-4053
+Ardoin, Nicole
+Associate Professor
+(650) 721-2231
+Atkin, J. Myron
+Professor Emeritus
+(650) 450-3514
+Bailenson, Jeremy
+Courtesy Professor
+(650) 723-0701
+Ball, Arnetha F.
+Professor Emerita
+(650) 724-7424
+Banks, Adam
+Banks, Richard
+Courtesy Professor
+(650) 723-6591
+Barr, Donald
+Courtesy Professor (Teaching)
+(650) 723-2884
+Barron, Brigid
+(650) 725-0194
+Baugh, John
+Professor Emeritus
+Bettinger, Eric
+(650) 736-7727
+Borko, Hilda
+(650) 721-1660
+Brazer, David
+Associate Professor (Teaching)
+(650) 725-9252
+Bromley, Patricia
+Assistant Professor
+(650) 723-7267
+Brown, Bryan
+Associate Professor
+(650) 725-4662
+Callan, Eamonn
+Professor Emeritus
+(650) 723-8317
+Carlson, Janet
+Associate Professor (Research)
+(650) 498-5177
+Carnoy, Martin
+Cohen, Geoffrey
+(650) 724-4602
+Colby, Anne
+Adjunct Professor
+(650) 725-8180
+Cox, Geoffrey
+Lecturer and Co-Director, POLS
+(650) 723-4052
+Cuban, Larry
+Professor Emeritus
+(650) 799-5912
+Damon, William
+(650) 725-8205
+Darling-Hammond, Linda
+Professor Emerita
+(650) 723-3555
+Dee, Thomas S.
+(650) 723-6847
+Domingue, Benjamin
+Assistant Professor
+(650) 725-7393
+Dweck, Carol
+Courtesy Professor
+(650) 724-9063
+Ehrlich, Thomas
+Adjunct Professor
+(650) 721-2500
+Forssell, Karin
+(650) 723-3340
+Garcia, Antero
+Assistant Professor
+Goldenberg, Claude
+Professor Emeritus
+(562) 883-1408
+Goldman, Shelley
+Professor (Teaching)
+(650) 723-8422
+Greeno, James
+Professor Emeritus
+(650) 723-0433
+Grossman, Pam
+Professor Emerita
+Gumport, Patricia J.
+(650) 723-7727
+Haertel, Edward
+Professor Emeritus
+(650) 725-1251
+Hakuta, Kenji
+Professor Emeritus
+(650) 723-5620
+Hanushek, Eric
+Courtesy Professor
+(650) 736-0942
+Hoagland, Gay
+Senior Lecturer
+(650) 723-8662
+Joshi, Shashank
+Courtesy Associate Professor
+(650) 723-5511
+Juel, Connie
+Professor Emerita
+(650) 724-5281
+Kamil, Michael
+Professor Emeritus
+(650) 725-5452
+Kelman, Ari Y.
+Associate Professor
+(650) 723-0792
+Kirst, Michael
+Professor Emeritus
+(650) 723-4412
+Koski, William
+Courtesy Professor (Teaching)
+(650) 724-3718
+Kozleski, Elizabeth
+Dean’s Senior Scholar for Teaching and Learning
+(650) 724-3590
+Krumboltz, John
+Professor Emeritus
+(650) 723-2108
+Kuboyama, Emi
+Co-Director, POLS
+Labaree, David F.
+Professor Emeritus
+LaFromboise, Teresa
+(650) 723-1202
+Langer-Osuna, Jennifer Marie
+Assistant Professor
+Levin, Henry
+Professor Emeritus
+(212) 678-3857
+Levine, Sarah
+Assistant Professor
+(650) 723-6609
+Associate Professor (Teaching)
+(650) 725-2221
+Lotan, Rachel
+Professor Emerita
+(650) 723-5992
+Loyalka, Prashant
+Assistant Professor
+Martínez, Ramón Antonio
+Assistant Professor
+(650) 724-5492
+Massy, William
+Professor Emeritus
+(650) 723-7725
+McCandliss, Bruce
+McDermott, Ray
+Professor Emeritus
+(650) 723-1723
+McFarland, Daniel A.
+(650) 723-1761
+McLaughlin, Milbrey
+Professor Emerita
+(650) 723-2109
+Meyerson, Debra
+Adjunct Professor
+Mitchell, John C.
+Courtesy Professor
+(650) 723-8634
+Courtesy Professor
+(650) 725-8212
+Moeller, Kathryn
+Visiting Assistant Professor
+Noddings, Nel
+Professor Emerita
+Obradović, Jelena
+Associate Professor
+(650) 725-1250
+Osborne, Jonathan
+(650) 725-1247
+Osgood, Brad
+Courtesy Professor
+(650) 723-4002
+Padilla, Amado
+(650) 724-3720
+Pecheone, Raymond L.
+Professor of the Practice
+(650) 723-4106
+Phillips, Denis
+Professor Emeritus
+Plank, David
+Professor (Research)
+(650) 721-2422
+Pope, Denise
+Senior Lecturer
+(650) 736-1779
+Porteus, Ann
+Senior Lecturer
+Powell, Woody
+(650) 725-7391
+Ramirez, Francisco
+(650) 723-8421
+Reardon, Sean F.
+(650) 736-8517
+Reeves, Byron
+Courtesy Professor
+(650) 725-3033
+Courtesy Professor
+(650) 723-2608
+Reininger, Michelle
+Assistant Professor (Research)
+(650) 725-4101
+Rogosa, David
+Associate Professor
+(650) 725-9991
+Rohlen, Thomas
+Professor Emeritus
+(650) 723-2085
+Rosa, Jonathan
+Assistant Professor
+Ruiz-Primo, Maria Araceli
+Associate Professor
+(650) 723-8618
+Schwartz, Dan
+I. James Quillen Dean
+(650) 725-9090
+Shavelson, Rich
+Professor Emeritus
+Shulman, Lee
+Professor Emeritus
+Silverman, Rebecca
+Associate Professor
+Smith, Sanne
+Solano-Flores, Guillermo
+Stevens, Mitchell L.
+Associate Professor
+(650) 723-4536
+Stipek, Deborah
+(650) 723-4644
+Strober, Myra
+Professor Emerita
+(650) 493-0400
+Thille, Candace
+Associate Professor (Teaching)
+(650) 723-9132
+Thoresen, Carl
+Professor Emeritus
+(650) 725-1247
+Valdes, Guadalupe
+(650) 725-1469
+Walker, Decker
+Professor Emeritus
+(650) 387-3378
+Wandell, Brian
+Courtesy Professor
+(650) 725-2466
+Weiler, Hans
+Professor Emeritus
+Wieman, Carl
+(650) 497-3491
+Williamson, Peter
+Associate Professor (Teaching)
+(650) 736-6864
+Willinsky, John
+Wineburg, Sam
+(650) 725-4411
+Winterer, Caroline
+Courtesy Professor
+Wolf, Jennifer
+Senior Lecturer
+(650) 721-2246
+Wotipka, Christine Min
+Associate Professor (Teaching)
+(650) 736-1392
+/#content-wrap
+Faculty Login
+Login to update your profile
+/#sidebar-second
+Back to the Top
+/#main, /#main-wrapper
+Stanford Graduate School of Education
+485 Lasuen Mall
+Stanford, CA 94305-3096
+Tel: (650) 723-2109
+Improving lives through learning
+Contact Admissions
+Site Feedback
+Web Accessibility
+Career Resources
+Faculty Open Positions
+Explore Courses
+Academic Calendar
+Office of the Registrar
+Cubberley Library
+StanfordWho
+StanfordYou
+Global footer snippet start
+#bottom-logo end
+Stanford Home
+Maps & Directions
+Search Stanford
+Emergency Info
+Terms of Use
+Non-Discrimination
+Accessibility
+.bottom-text end
+Stanford University
+.container end
+global-footer end
+Global footer snippet end

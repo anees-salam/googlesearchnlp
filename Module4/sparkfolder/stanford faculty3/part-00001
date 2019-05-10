@@ -1,0 +1,13 @@
+JS and jQuery
+[if lt IE 9]>
+	<script src="../assets/cardinal/js/respond.js"></script>
+<![endif]
+InstanceBeginEditable name="head"
+InstanceEndEditable
+InstanceParam name="site_name_1" type="text" value="Undergraduate Admission"
+InstanceParam name="site_name_2" type="text" value="Signature Line 2"
+InstanceParam name="site_url" type="text" value="/"
+InstanceParam name="body_class" type="text" value="nav-1 nav-1-1"
+InstanceParam name="h1" type="text" value=""
+Stanford Cardinal Templates Version 1.0
+used to force footer to bottom of short pages

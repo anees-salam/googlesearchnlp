@@ -1,0 +1,13 @@
+[if IE 7]> <html lang="en" class="ie7"> <![endif]
+[if IE 8]> <html lang="en" class="ie8"> <![endif]
+[if IE 9]> <html lang="en" class="ie9"> <![endif]
+[if !IE]><!
+InstanceBegin template="/Templates/right-sidebar.dwt" codeOutsideHTMLIsLocked="false"
+InstanceBeginEditable name="doctitle"
+Our Faculty : Stanford University
+InstanceEndEditable
+InstanceBeginEditable name="MetaTags"
+InstanceEndEditable
+[if lt IE 9]>
+  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]

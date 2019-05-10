@@ -1,0 +1,906 @@
+[if lt IE 7]> <html class="ie ie6" lang="en" dir="ltr"> <![endif]
+[if IE 7]>    <html class="ie ie7" lang="en" dir="ltr"> <![endif]
+[if IE 8]>    <html class="ie ie8" lang="en" dir="ltr"> <![endif]
+[if gt IE 8]> <!
+Faculty and Staff Directory | University of Michigan School for Environment and Sustainability
+HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries
+WARNING: Respond.js doesn't work if you view the page via file://
+Skip to main content
+Search form
+For Prospective Students
+For Current Students
+For Employers
+Student Life
+Locations & Facilities
+Room Directory
+Art & Environment Gallery
+Diversity, Equity & Inclusion
+Maps & Visiting
+Jobs at SEAS
+Faculty & Staff Directory
+Academic Programs
+Master of Science (MS)
+Master of Landscape Architecture (MLA)
+Doctoral (PhD)
+Dual-degree Programs
+Graduate Certificate programs
+Michigan Sustainability Cases
+Financial Aid
+Student Resources
+Faculty & Research
+Affiliated Faculty
+Lecturers, Adjuncts, and Visitors
+List of Master's Projects
+Centers & Institutes
+Field Properties
+Research Themes
+Career Services
+Faculty and Staff Directory
+Faculty and Staff Directory
+Administration
+Administrative Services
+(734) 764-0123
+seas-admissions@umich.edu
+(734) 764-6453
+Career Services
+seas-careers@umich.edu
+(734) 764-6453
+Communications
+seas-comms@umich.edu
+(734) 764-3545
+2353 Dana - Communications Events and Creative
+2046 Dana - Communications
+Dean's Office
+seas-dean@umich.edu
+(734) 764-2550 - Fax number: (734) 763-8965
+Development and Alumni Relations
+seas-development-staff@umich.edu
+(734) 763-1577
+seas-facilities@umich.edu
+(734) 764-9316
+Field of Study Council
+seas-fos-council@umich.edu
+Financial Aid
+seas-financial-aid@umich.edu
+(734) 763-6453
+Information Technology Services (IT Help Desk)
+4help@umich.edu
+(734) 647-4342
+Office of Academic Programs (OAP) Team
+Office of Diversity, Equity, and Inclusion (DEI)
+seas-dei-office@umich.edu
+734-936-0900
+Program in the Environment
+environment.program@umich.edu
+(734) 763-5065
+1120 Undergraduate Science Building
+Room Reservations
+seas-rooms@umich.edu
+(734) 764-0123
+seas-webmaster@umich.edu
+Sara Ana Adlerstein Gonzalez
+adlerste@umich.edu
+(734) 764-4491
+Peter A. Adriaens
+adriaens@umich.edu
+(734) 763-8032
+Arun Agrawal
+arunagra@umich.edu
+(734) 647-5948
+Jose F. Alfaro
+jfalfaro@umich.edu
+(734) 763-8564
+Karen Alofs
+kmalofs@umich.edu
+734-615-9282
+Cathy L. Antonakos
+cathya@umich.edu
+734-763-2812
+Sandra L. Arlinghaus
+sarhaus@umich.edu
+(734) 546-5057
+jlarvai@umich.edu
+(734) 647-3891
+abasu@umich.edu
+(734) 262-5800
+Dima Beletsky
+beletsky@umich.edu
+(734) 741-2360
+Kathleen Bergen
+kbergen@umich.edu
+(734) 615-8834
+Rosina Bierbaum
+rbierbau@umich.edu
+(734) 763-8675
+Jennifer Blesh
+jblesh@umich.edu
+(734) 763-2470
+James E. Breck
+breck@umich.edu
+734-663-3554
+Shannon Brines
+sjbrines@umich.edu
+(734) 763-3573
+David "Bo" Bunnell
+dbunnell@usgs.gov
+(734) 615-2604
+Allen Burton
+burtonal@umich.edu
+(734) 763-3601
+bilalb@umich.edu
+(734) 615-6149
+Victoria Campbell-Arvai
+vcarvai@umich.edu
+(734) 763-5245
+Bradley J. Cardinale
+bradcard@umich.edu
+(734) 764-9689
+Leon M. Carl
+lcarl@usgs.gov
+734-214-7207
+Bill Currie
+wcurrie@umich.edu
+(734) 647-2453
+Raymond De Young
+rdeyoung@umich.edu
+(734) 763-3129
+Ivan Eastin
+ieastin@umich.edu
+(734) 763-8648
+Paige Fischer
+apfisch@umich.edu
+(734) 763-3830
+Johannes Foufopoulos
+jfoufop@umich.edu
+(734)-763-9460
+Marc E. Gaden
+mgaden@umich.edu
+734-764-6453
+bgrese@umich.edu
+(734) 763-0645
+Drew Gronewold
+drewgron@umich.edu
+734-764-6286
+Rebecca D. Hardin
+rdhardin@umich.edu
+(734) 647-5947
+Gloria E. Helfand
+ghelfand@umich.edu
+(734) 615-2604
+Andy Hoffman
+ajhoff@umich.edu
+(734)-763-9455
+Mark D. Hunter
+mdhunter@umich.edu
+734-647-3691
+MaryCarol Hunter
+mchunter@umich.edu
+(734) 615-1413
+Inés Ibáñez
+iibanez@umich.edu
+(734)-615-8817
+Pamela Jagger
+pjagger@umich.edu
+(734) 615-0148
+mehajain@umich.edu
+734-764-5707
+Thomas Johengen
+johengen@umich.edu
+(734) 741-2203
+stanj@umich.edu
+(734)-764-6529
+Greg Keoleian
+gregak@umich.edu
+(734)-764-3194
+Oliver D. Kiley
+okiley@umich.edu
+734-615-2604
+Kurt P. Kowalski
+kkowalski@usgs.gov
+734-214-9308
+Chuck Krueger
+kruegerc@umich.edu
+(734) 662-3209
+Amy B. Kuras
+akuras@a2gov.org
+(734) 994-1827
+Larissa Larsen
+larissal@umich.edu
+734-936-0234
+Maria Carmen Lemos
+lemos@umich.edu
+(734)-764-9315
+Mark Lindquist, ASLA, PhD
+marklin@umich.edu
+(734)-763-8650
+Thomas Lyon
+tplyon@umich.edu
+(734)-615-1639
+Charles P. Madenjian
+cmadenjian@usgs.gov
+(734) 214-7259
+Andrew J. Marshall
+ajmarsha@umich.edu
+734-763-4735
+Shikha Marwah
+marwahs@umich.edu
+734-764-2550
+Shelie Miller
+sheliem@umich.edu
+(734)-763-8645
+pmohai@umich.edu
+(734)-763-4598
+Michael R. Moore
+micmoore@umich.edu
+(734)-647-4337
+Michael W. Murray
+mmurray@umich.edu
+734-887-7110
+Thomas Nalepa
+nalepa@umich.edu
+734-763-0739
+Ganapathy Narayanaraj
+gnraj@umich.edu
+734-764-3763
+Joan Iverson Nassauer
+nassauer@umich.edu
+(734)-763-9893
+Lindsay A Nelson
+nelsonla@umich.edu
+(734) 615-2604
+Joshua Newell
+jpnewell@umich.edu
+(734)- 763-8652
+Nolan Orfield
+nolando@umich.edu
+(734) 615-2604
+Jonathan T. Overpeck, Ph.D.
+seas-dean@umich.edu
+Douglas R. Pearsall
+drp@umich.edu
+734-764-6453
+Ivette Perfecto
+perfecto@umich.edu
+(734)-764-8601
+Thomas Princen
+tprincen@umich.edu
+(734) 647-9227
+brabe@umich.edu
+734-615-9596
+Tony Reames
+treames@umich.edu
+(734) 647-3916
+Catherine Riseng
+criseng@umich.edu
+(734)-763-9422
+Mark George Robinson
+mgrobins@umich.edu
+(734) 615-2604
+Richard B. Rood
+rbrood@umich.edu
+(734) 647-3530
+Edward S. Rutherford
+edwardr@umich.edu
+(734) 763-9215
+Jeffrey S. Schaeffer
+jschaeffer@usgs.gov
+(734) 214-7250
+Sheila Schueller
+schuel@umich.edu
+(734) 615-2572
+Paul Seelbach
+seelbach@umich.edu
+(734) 763-6280
+Samuel Stolper
+sstolper@umich.edu
+(734) 763-3243
+Amanda V. Szot
+avszot@umich.edu
+(734) 764-7735
+Sylvia M. Taylor
+smtaylor@umich.edu
+(734) 763-4570
+Dorceta E. Taylor
+dorceta@umich.edu
+(734) 763-5327
+Joseph Trumpey
+jtrumpey@umich.edu
+734-764-2550
+Richard R. Tucker
+rptucker@umich.edu
+(734) 763-9279
+John Vandermeer
+jvander@umich.edu
+734-764-1446
+Henry A. Vanderploeg
+henry.vanderploeg@noaa.gov
+(734) 741-2292
+lizuwang@umich.edu
+(734) 663-3554 x112
+Brian Weeks
+Kim Williams-Guillén, Ph.D
+kimwg@umich.edu
+Julia M. Wondolleck
+juliaw@umich.edu
+(734)-764-1570
+mingxu@umich.edu
+(734)-763-8644
+Steven L. Yaffee
+yaffee@umich.edu
+(734)-763-5451
+Donald R. Zak
+drzak@umich.edu
+(734) 763-4991
+Michaela Theresia Zint
+zintmich@umich.edu
+(734) 763-6961
+Affiliation
+Shelly Baczkowski
+Business Manager
+shellykb@umich.edu
+(734) 615-5753
+Administrative Services
+M'Lis Bartlett
+Program Manager, Environmental Fellows Program
+mlis@umich.edu
+(734) 936-0900
+Office of Diversity, Equity, and Inclusion (DEI)
+Raisa Beletsky
+Research Associate
+raisabel@umich.edu
+(734) 741-2235
+4840 S. State Rd., 
+Ann Arbor, MI 48108-9719
+Cooperative Institute for Great Lakes Research (CIGLR)
+Scott Bertschy
+Director of Development and Alumni Relations
+bertschy@umich.edu
+(734) 615-0315
+Development and Alumni Relations
+Nishan Bhattarai
+Research Fellow
+nbhattar@umich.edu
+734-764-6453
+Cameron Bothner
+Web Applications Developer
+cbothner@umich.edu
+(734)647-5947
+Michigan Sustainability Cases
+Dave Brenner
+Creative Director
+daverb@umich.edu
+(734) 615-2448
+Communications
+Laura Briley
+GLISA Climatologist
+auraell@umich.edu
+734-615-2214
+Great Lakes Integrated Sciences and Assessments Program (GLISA)
+Ashley Burtner
+Research Lab Specialist Assoc
+aburtner@umich.edu
+(734) 741-2235
+4840 S. State Rd.,
+Ann Arbor, MI 48108-9719
+Cooperative Institute for Great Lakes Research (CIGLR)
+Helen Callow
+Assistant Editor Associate, Journal of Environmental Toxicology and Chemistry
+hjcallo@umich.edu
+734-764-6988
+Journal of Environmental Toxicology
+Eduardo Cervi
+Research Lab Specialist
+ecervi@umich.edu
+Kimberly Channell
+GLISA Climatologist
+kimchann@umich.edu
+(734) 615-0675
+Great Lakes Integrated Sciences and Assessments Program (GLISA)
+Moe Daraiseh
+Technical Support Manager
+mdaraise@umich.edu
+(734) 647-4342
+Information Technology Services (ITS Help Desk)
+Socorro Martha Meg-ay Daupan
+Program Manager, Doris Duke Conservation Scholars Program
+mvdaupan@umich.edu
+734-936-0900
+Emily Davenport
+Research Technician Senior
+edavenp@umich.edu
+(734)741-2235
+Cooperative Institute for Great Lakes Research (CIGLR)
+Linda DeLuca
+Financial Specialist
+dlinda@umich.edu
+(734) 763-3466
+Administrative Services
+Erin DeVries
+Program Coordinator
+edevries@umich.edu
+(734) 647-0766
+MSG 520 E. Liberty, Ste. 310 #2
+Michigan Sea Grant
+Stephanie Dooper
+Assistant Director of Annual Giving & Alumni Relations
+sldooper@umich.edu
+734-763-1577
+Development and Alumni Relations
+Caitlin Drummond
+Research Fellow
+drummonc@umich.edu
+734-647-3891
+Kim Elliott
+Director Office of Academic Programs/Chief Enrollment Management
+elliottk@umich.edu
+(734) 615-4332
+Academic Programs (OAP)
+Sucila Fernandes
+Building and Facilities Manager
+sucila@umich.edu
+(734) 764-9316
+Lindsay Fitzpatrick
+Hyrdrological Modeler
+ljob@umich.edu
+734-741-2447
+4840 S. State Rd., Ann Arbor, MI 48108-9719
+Cooperative Institute for Great Lakes Research (CIGLR)
+Alec Foster
+Research Fellow
+alecfo@umich.edu
+734-763-8652
+Center for Sustainable Systems
+Jake F. L. Davidson
+Recruiting Coordinator
+foxlongj@umich.edu
+(734) 936-1218
+Academic Programs (OAP)
+GLISA Climatologist
+gateso@umich.edu
+734-615-2214
+Great Lakes Integrated Sciences and Assessments Program (GLISA)
+Nathan Geisler
+Employer Relations Manager
+nrg@umich.edu
+(734) 764-1402
+Academic Programs (OAP)
+Stakeholder Engagement Specialist
+deving@umich.edu
+(734) 741-2283
+NOAA GLERL, 4840 S. State Rd., Room 140, Ann Arbor, MI 48108
+Cooperative Institute for Great Lakes Research (CIGLR)
+Paul Glyshaw
+Research Technician Senior, Cooperative Institute of Limnology and Ecosystems Research
+pglyshaw@umich.edu
+734-741-2235
+4840 S. State Rd, 
+Ann Arbor, MI 48108-9719
+Cooperative Institute for Great Lakes Research (CIGLR)
+Casey Godwin
+Research Fellow
+cgodwin@umich.edu
+(734) 936-5172
+Benjamin Goldstein
+Research Fellow
+benjgo@umich.edu
+Alexandra M. Haddad
+Communications Manager
+ahaddad@umich.edu
+(734) 764-3545
+Communications
+Matthew Hamilton
+Research Fellow
+mhamil@umich.edu
+Katie-Sue Hayes
+Development Assistant
+kshayes@umich.edu
+(734) 615-1386
+Development and Alumni Relations
+Martin Heller
+Research Area Specialist Senior
+mcheller@umich.edu
+(734) 764-1412
+Center for Sustainable Systems
+Teresa Herrick
+Research Process Manager
+herrickt@umich.edu
+734-936-2447
+Administrative Services
+Postdoctoral Fellow
+huya@umich.edu
+Cooperative Institute for Great Lakes Research (CIGLR)
+Ice Modeler
+hghu@umich.edu
+(734) 741-2235
+4840 South State St.,
+Ann Arbor, MI 48108-9719
+Cooperative Institute for Great Lakes Research (CIGLR)
+Helaine Hunscher
+Program Coordinator
+hunscher@umich.edu
+(734) 764-1412
+Center for Sustainable Systems
+Amarilys Irizarry
+Admin Coordinator; Project Coordinator
+adirizar@umich.edu
+Kirby Jewell
+Admin. Asst. Assoc.
+Michigan Sea Grant
+Jenna Jorns
+GLISA Program Manager
+jljorns@umich.edu
+734-764-3198
+Great Lakes Integrated Sciences and Assessments Program (GLISA)
+Sonia Joshi
+Diversity Equity and Inclusion Manager
+soniajos@umich.edu
+(734) 647-9226
+Office of Diversity, Equity, and Inclusion (DEI)
+Suhyun Jung
+Research Fellow
+sjungx@umich.edu
+734-764-9542
+International Forestry Resources and Institutions (IFRI) Research network
+Bradford Kasberg
+Research Area Specialist Associate - Food Access in Michigan
+bkasberg@umich.edu
+(734) 936-0900
+Jeff Keeler
+Director of Budget and Administration
+jskeeler@umich.edu
+(734) 763-4533
+Administrative Services
+Allison Kelly
+Research Fellow
+kellyall@umich.edu
+734-936-3086
+James Kessler
+Research Computer Specialist
+jamkessl@umich.edu
+(734) 741-2247
+4840 S. State Rd., 
+Rm. 3123,
+Ann Arbor, MI 48108
+Cooperative Institute for Great Lakes Research (CIGLR)
+Susan Koehler
+Assistant to the Dean
+sukoehle@umich.edu
+(734) 615-0271
+Dean's Office
+Associate Director of Enrollment Services
+jkoral@umich.edu
+(734) 763-4927
+Academic Programs (OAP)
+Jaime Langdon
+jlangdon@umich.edu
+734-764-6372
+Geneva Dawn Langeland
+Editor Intermediate
+genlang@umich.edu
+(734)615-0400
+SEAS Michigan Sea Grant 
+520 E. Liberty Street 
+Ste. 310 Room 3 
+Ann Arbor MI 48104-2210
+Michigan Sea Grant
+Elyse Larsen
+Fiscal Officer, Michigan Sea Grant College Program
+elarsen@umich.edu
+(734) 763-1438
+520 E. Liberty St., 
+Ste 310,
+Ann Arbor, MI 48104-2210
+Michigan Sea Grant
+Aubrey Lashaway
+Research Lab Specialist Associate
+aubrain@umich.edu
+734-763-9004
+Cooperative Institute for Great Lakes Research (CIGLR)
+Geoffrey Lewis Ph.D.
+Research Area Specialist Lead
+glewis@umich.edu
+(734) 936-2637
+Center for Sustainable Systems
+Research Fellow
+lchuan@umich.edu
+(713)822-0959
+International Forestry Resources and Institutions (IFRI) Research network
+Songzhi Liu
+General Programmer/Analyst Senior, Cooperative Institute for Limnology and Ecosystems Research
+sssliu@umich.edu
+(734) 741-2349
+4840 South State St., 
+Ann Arbor, MI 48108-9719
+Cooperative Institute for Great Lakes Research (CIGLR)
+Jenessa Loomis
+Social Media Manager (Marketing Comms. Spec.)
+jeloomis@umich.edu
+Communications
+Carole Love
+Director of Communications and Outreach
+calove@umich.edu
+734-647-3050
+Dana Building, room 2046d
+Communications
+Erika Lower
+Research Associate
+ellower@umich.edu
+Cooperative Institute for Great Lakes Research (CIGLR)
+Heather Lucier
+Data Architect Associate
+hlucier@umich.edu
+(734) 741-2290
+4840 South State St., 
+Office 222, 
+Ann Arbor MI 48109-1041
+Cooperative Institute for Great Lakes Research (CIGLR)
+Kerrin Mabrey
+Laboratory Tech General Inter
+kmabrey@umich.edu
+(734) 741-2152
+4840 South State St. 
+Ann Arbor MI 48108-9719
+Cooperative Institute for Great Lakes Research (CIGLR)
+Kate Malicke
+Marketing & Communications Project Manager
+kmalicke@umich.edu
+Communications
+Todd Marsee
+Senior Graphic Artist
+marsee@umich.edu
+(734) 764 2421
+520 E. Liberty St., Ste 310
+Ann Arbor, MI 48104-2210
+Michigan Sea Grant
+Lacey Mason
+Research Computer Specialist
+lmas@umich.edu
+(734) 663-3554
+400 North Ingalls,
+Ann Arbor, MI 48109-5480
+Institute for Fisheries Research
+Kela McClure
+Director of Human Resources
+kela@umich.edu
+(734) 764-2227
+Administrative Services
+Joseph McClure
+Assistant Editor Associate
+Ember McCoy
+Project Manager- Developing Environmental Pipelines & Networks
+embermcc@umich.edu
+734-615-2602
+Nils McCune
+Research Fellow
+nmccune@umich.edu
+Heidi McGowan
+Project Associate Manager
+heidimcg@umich.edu
+(734) 647-4171
+Francesca McGrath
+Research Fellow
+fmcgrath@umich.edu
+Kevin A Meyer
+Research Fellow
+kevmey@umich.edu
+(734)647-7924
+Earth and Environmental Sciences 
+2534 CC Little 
+Ann Arbor MI 48109-1005
+Cooperative Institute for Great Lakes Research (CIGLR)
+Russell Miller
+Mechanical Technician, Cooperative Institute of Limnology and Ecosystems Research
+rusmil@umich.edu
+(734) 741-2277
+4840 S. State Rd, 
+Ste. 218, Rm. 603,
+Ann Arbor, MI 48108-9719
+Cooperative Institute for Great Lakes Research (CIGLR)
+Sara Nedrich
+Research Fellow
+snedrich@umich.edu
+Erin Nelson
+Senior Editor
+emnels@umich.edu
+(734) 764-6987
+Cooperative Institute for Great Lakes Research (CIGLR)
+Director of Special Events
+amynov@umich.edu
+(734) 763-9925
+Communications
+Mary Ogdahl
+CILER Program Manager
+ogdahlm@umich.edu
+(734) 763-3010
+Cooperative Institute for Great Lakes Research (CIGLR)
+Program Manager- Doris Duke Conservation Scholars Program
+iotudor@umich.edu
+734-936-0900
+Danna Palladino
+Research Lab Specialist Associate
+dpallad@umich.edu
+(734) 741-2235
+4840 S State Rd.,
+Ann Arbor, MI 48108-9719
+Cooperative Institute for Great Lakes Research (CIGLR)
+Jane Parish
+Office Services Assistant Associate
+wjparish@umich.edu
+(734) 764-0123
+Administrative Services
+Sophia Paul
+Project Manager of Environmental Diversity
+sophiakp@umich.edu
+Office of Diversity, Equity, and Inclusion (DEI)
+Project Manager - Environmental Careers, Networks, and Institutional Diversity
+kwprice@umich.edu
+2541 Dana Building
+Office of Diversity, Equity, and Inclusion (DEI)
+Katrina Price
+Program Assistant
+priceka@umich.edu
+734-763-1530
+Michigan Sea Grant
+Heidi L Purcell
+Research Area Specialist Inter
+hpurcell@umich.edu
+(734) 763-3010
+Cooperative Institute for Great Lakes Research (CIGLR)
+Research Fellow
+shenquin@umich.edu
+(734)647-5952
+Center for Sustainable Systems
+Research Associate
+rpreeti@umich.edu
+Dwarak Ravikumar
+Research Fellow
+Center for Sustainable Systems
+Harry Rhett Register
+Communications Program Leader
+rregist@umich.edu
+(734) 647-0767
+520 E. Liberty St., 
+Ste 310,
+Ann Arbor, MI 48104-2210
+Michigan Sea Grant
+Ashley Richardson
+Associate Director Career Services
+ashricha@umich.edu
+(734) 764-8088
+Academic Programs (OAP)
+Mark Romanowski
+Financial Aid Coordinator
+markroma@umich.edu
+Academic Programs (OAP)
+Michal Russo
+Research Area Specialist Associate
+michalr@umich.edu
+(734)763-3830
+Lilly Fink Shapiro
+Sustainable Food Systems Initiative Project Manager
+finkshap@umich.edu
+Sukhwinder Singh
+Research Fellow
+sukhs@umich.edu
+(734)764-6453
+Terri D Slaughter
+tdslaugh@umich.edu
+734-615-7347
+Joeseph Smith
+General Programmer/Analyst Intermediate
+joeseph@umich.edu
+(734) 741-2252
+4840 South State Rd, 
+Rm. 308,
+Ann Arbor, MI 48108-9719
+Cooperative Institute for Great Lakes Research (CIGLR)
+Whitney Imani Smith
+Research Area Specialist Associate - Food Access in Michigan
+whitsmit@umich.edu
+(734) 936-0900
+Denise Spranger
+Communications Specialist
+sprangdm@umich.edu
+(734) 936-2447
+Communications
+Hillary Streit
+Student Services Administrative Assistant
+hbstreit@umich.edu
+734-764-6453
+Academic Programs (OAP)
+Dack Stuart
+Research Lab Specialist Assoc
+studack@umich.edu
+(734) 741-2443
+4840 S. State St., 
+Rm. 506, 
+Ann Arbor, MI 48108-9719
+Cooperative Institute for Great Lakes Research (CIGLR)
+John Sullivan
+Research Area Specialist Lead
+jlsulliv@umich.edu
+(734) 764-1412
+Jennifer Taylor
+School Registrar
+jennperk@umich.edu
+(734) 764-1404
+Academic Programs (OAP)
+Daniel Titze
+Hydrodynamic/Wave Modeling
+Cooperative Institute for Great Lakes Research (CIGLR)
+Uyanga Turmunkh
+Postdoctoral Research Fellow (Erb Institute for Global Sustainable Enterprise)
+turmunkh@umich.edu
+(734) 615-6196
+Erb Institute for Global Sustainable Enterprise
+Rima Upchurch
+Research Lab Specialist Assoc
+rimaup@umich.edu
+(734) 647-0459
+Madeline Van Remmen
+Graphic Designer; Web Administrator
+mvanremm@umich.edu
+Communications
+Beth VanDusen
+Research Lab Tech Intermediate
+vanbeth@umich.edu
+(734) 763-2470
+Meghan Wagner
+Michigan Sustainability Cases Program Coordinator
+megwagn@umich.edu
+(734) 764-5618
+Michigan Sustainability Cases
+Ed Waisanen
+Multimedia Projects Manager
+waisaed@umich.edu
+Michigan Sustainability Cases
+Cristy Watkins
+IFRI Project Manager
+watkinsc@umich.edu
+(734) 647-4171
+International Forestry Resources and Institutions (IFRI) Research network
+David Wells
+Laboratory Tech General Assoc
+wellsdj@umich.edu
+(734) 741-2235
+4840 S. State Rd., 
+Ann Arbor, MI 48108-9719
+Cooperative Institute for Great Lakes Research (CIGLR)
+Michele Wensman
+Laboratory and Research Assoc
+mwensman@umich.edu
+734-741-2398
+G110 Dana,
+4840 S. State St. Ann Arbor, MI 48108
+Cooperative Institute for Great Lakes Research (CIGLR)
+Chuliang Xiao
+Research Fellow
+cxiao@umich.edu
+(734)741-2235
+4840 South State Rd 
+Ann Arbor MI 48109-9719
+Cooperative Institute for Great Lakes Research (CIGLR)
+Chuliang (Andy) Xiao
+Horological Modeler
+cxiao@umich.edu
+Great Lakes Integrated Sciences and Assessments Program (GLISA)
+Research Process Coordinator
+lilyong@umich.edu
+(734) 763-2228
+Administrative Services
+Pearl Zhu Zeng
+Michigan Sustainability Cases Learning Platform and Website Manager
+zhuzeng@umich.edu
+(734) 936-2448
+Michigan Sustainability Cases
+SEAS Mission
+Contact info
+University of Michigan
+School for Environment and Sustainability
+Dana Building
+440 Church Street
+Ann Arbor, MI 48109
+(734) 764-6453
+seas-info@umich.edu
+© 2019 The Regents of the University of Michigan
+(734) 764-6453

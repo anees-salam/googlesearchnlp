@@ -1,0 +1,93 @@
+[if IE 7]> <html lang="en" class="ie7"> <![endif]
+[if IE 8]> <html lang="en" class="ie8"> <![endif]
+[if IE 9]> <html lang="en" class="ie9"> <![endif]
+[if !IE]><!
+InstanceBegin template="/Templates/right-sidebar.dwt" codeOutsideHTMLIsLocked="false"
+InstanceBeginEditable name="doctitle"
+Our Faculty : Stanford University
+InstanceEndEditable
+InstanceBeginEditable name="MetaTags"
+InstanceEndEditable
+[if lt IE 9]>
+  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]
+JS and jQuery
+[if lt IE 9]>
+	<script src="../assets/cardinal/js/respond.js"></script>
+<![endif]
+InstanceBeginEditable name="head"
+InstanceEndEditable
+InstanceParam name="site_name_1" type="text" value="Undergraduate Admission"
+InstanceParam name="site_name_2" type="text" value="Signature Line 2"
+InstanceParam name="site_url" type="text" value="/"
+InstanceParam name="body_class" type="text" value="nav-1 nav-1-1"
+InstanceParam name="h1" type="text" value=""
+Stanford Cardinal Templates Version 1.0
+used to force footer to bottom of short pages
+used to force footer to bottom of short pages
+=== Top ===
+=== Skip links ===
+Skip to content
+/Skip links
+=== Header ===
+Undergraduate Admission
+main navigation
+/nav-collapse
+Search form
+Search term
+replace value in next line with your site URL
+Student Life
+Diversity at Stanford
+Gateways for...
+Admission Volunteers
+/nav-collapse
+main content
+InstanceBeginEditable name="Page Title"
+Our Faculty
+InstanceEndEditable
+Main column
+InstanceBeginEditable name="content_main"
+Global Recognition
+The Stanford Faculty
+Community of Scholars
+Undergraduate Development
+InstanceEndEditable
+#BeginLibraryItem "/Library/last_update.lbi"
+#BeginDate format:Am1a
+November 27, 2017 12:07 PM
+#EndLibraryItem
+InstanceBeginEditable name="sidebar_supplementary"
+Related Sites
+Stanford Facts at a Glance
+Office of the University Registrar
+InstanceEndEditable
+#su-content
+BEGIN footer
+Fat footer start
+Stanford in Your Area
+Discover Stanford
+Publications
+Stanford Preview
+Stanford Viewbook
+Join the Mailing List
+Engage with Us
+View the full report
+Fat footer end
+Global footer snippet start
+#bottom-logo end
+Stanford Home
+Maps & Directions
+Search Stanford
+Emergency Info
+Terms of Use
+Non-Discrimination
+Accessibility
+.bottom-text end
+Stanford University
+.container end
+Global footer snippet end
+Start Google Analytics
+End Google Analytics
+Sticky Menu
+End Sticky Menu
+InstanceEnd

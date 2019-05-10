@@ -1,0 +1,280 @@
+[if lt IE 7]> <html class="ie6 ie" lang="en" dir="ltr"> <![endif]
+[if IE 7]>    <html class="ie7 ie" lang="en" dir="ltr"> <![endif]
+[if IE 8]>    <html class="ie8 ie" lang="en" dir="ltr"> <![endif]
+[if IE 9]>    <html class="ie9 ie" lang="en" dir="ltr"> <![endif]
+Set the viewport width to device width for mobile
+Faculty | Stanford School of Engineering
+IE Fix for HTML5 Tags
+Skip to content
+Skip to navigation
+/#admin-shortcuts
+/#full-width-super-hero
+Search this site
+/#global-header
+Engineering
+/#name-and-slogan
+/#header-content
+Navigation menu
+Admission & Aid
+Students & Academics
+Faculty & Research
+Get Involved
+/#main-menu
+Emeritus Faculty
+In Memoriam
+Departments
+Institutes, Labs and Centers
+Faculty Awards
+/#sidebar-first
+Maneesh Agrawala
+Juan Alonso
+Russ B. Altman
+Amin Arbabian
+Itai Ashlagi
+Peter Bailis
+Nicholas Bambos
+Clark Barrett
+Annelise E. Barron
+David Beach
+Gill Bejerano
+Stacey Bent
+Michael Bernstein
+Sarah Billington
+Lacramioara Bintu
+Jose Humberto Blanchet Mancilla
+Kwabena Boahen
+Alexandria Boehm
+Jeannette Bohg
+Ronaldo Borja
+Stephen Boyd
+Margaret Brandeau
+Mark Brongersma
+Emma Brunskill
+Thomas Byers
+David Camarillo
+Brian Cantwell
+Mark A. Cappelli
+Matteo Cargnello
+Fu-Kuo Chang
+Moses Charikar
+Ovijit Chaudhuri
+David Cheriton
+Samuel Chiu
+Srabanti Chowdhury
+William Chueh
+Bruce Clemens
+Sigrid Close
+Jennifer R. Cochran
+Markus Covert
+Craig Criddle
+Mark Cutkosky
+Simone D'Amico
+John Dabiri
+William Dally
+Reinhold Dauskardt
+Jenna Davis
+Gregory Deierlein
+Karl Deisseroth
+Scott L. Delp, Ph.D.
+Jennifer Dionne
+Persis Drell
+Alexander Dunn
+Zakir Durumeric
+Robert Dutton
+Christopher Edwards
+Charles (Chuck) Eesley
+Kathleen Eisenhardt
+Abbas El Gamal
+Dawson Engler
+Stefano Ermon
+Jonathan Fan
+Shanhui Fan
+Charbel Farhat
+Kayvon Fatahalian
+Mr Michael Andrew Fischbach
+Martin Fischer
+Sean Follmer
+Curtis Frank
+David Freyberg
+Oliver Fringer
+Gerald Fuller
+Hector Garcia-Molina
+Michael Genesereth
+J. Christian Gerdes
+Margot Gerritsen
+Kay Giesecke
+Bernd Girod
+Peter Glynn
+Ashish Goel
+Sharad Goel
+Andrea Goldsmith
+Kenneth Goodson
+Catherine Gorle
+Leonidas Guibas
+Pat Hanrahan
+Ronald Hanson
+James Harris
+Sarah Heilshorn
+John Hennessy
+Lambertus Hesselink
+Lynn Hildemann
+Pamela Hinds
+Guosong Hong
+Mark Horowitz
+Ronald Howard
+Gianluca Iaccarino
+Werner Ihme
+Mark Jacobson
+Rishee Jain
+Antony Jameson
+Thomas Jaramillo
+Ramesh Johari
+Joseph Kahn
+Riitta Katila
+Sachin Katti
+David Kelley
+Thomas Kenny
+Oussama Khatib
+Chaitan Khosla
+Butrus Khuri-Yakub
+Anne Kiremidjian
+Peter K. Kitanidis
+Mykel Kochenderfer
+Jeffrey Koseff
+Gregory Kovacs
+Professor of Electrical Engineering, Emeritus
+Christoforos Kozyrakis
+Sanjay Lall
+James Landay
+James Leckie
+Larry Leifer
+Sanjiva Lele
+David Lentink
+Michael Lepech
+Jurij Leskovec
+Marc Levenston
+Philip Levis
+Percy Liang
+Aaron Lindenberg
+Christian Linder
+Jan Liphardt
+Richard Luthy
+Erin MacDonald
+Dr. Arun Majumdar
+Zachary Manchester
+Christopher Manning
+David Mazieres
+Robert McGinn
+Paul McIntyre
+Nick McKeown
+Nicholas Melosh
+David Miller
+Eduardo Miranda
+William Mitch
+John Mitchell
+Reginald Mitchell
+Subhasish Mitra
+Parviz Moin
+Stephen Monismith
+Andrea Montanari
+Boris Murmann
+Drew Nelson
+Yoshio Nishi
+Professor of Electrical Engineering, Emeritus
+Dwight Nishimura
+Allison Okamura
+Oyekunle Olukotun
+Leonard Ortolano
+Brad Osgood
+Nicholas Ouellette
+John Ousterhout
+Ayfer Ozgur Aydin
+M Elisabeth Pate-Cornell
+John M. Pauly
+Marco Pavone
+Norbert Pelc
+Markus Pelger
+Piero Pianetta
+Mert Pilanci
+Peter Pinsky
+Jim Plummer
+Balaji Prabhakar
+Manu Prakash
+Friedrich Prinz
+Lei Stanley Qi
+Stephen Quake
+Priyanka Raina
+Ram Rajagopal
+Christopher Re
+Omer Reingold
+Juan Rivas-Davila
+Stephen Rock
+Mendel Rosenblum
+Bernard Roth
+Amin Saberi
+Dorsa Sadigh
+Mehran Sahami
+J Kenneth Salisbury, Jr.
+Alberto Salleo
+Juan Santiago
+Krishna Saraswat
+Elizabeth Sattely
+Silvio Savarese
+Mac Schwager
+Tina Seelig
+Debbie Senesky
+Ross Shachter
+Eric Shaqfeh
+Krishna Shenoy
+Sheri Sheppard
+Aaron Sidford
+Bob Sinclair
+Christina Smolke
+Hyongsok Soh
+Olav Solgaard
+Andrew Spakowitz
+Alfred M. Spormann
+Robert Sutton
+James Swartz
+James Sweeney
+William Abraham Tarpeh
+Fouad Tobagi
+Johan Ugander
+Melissa Valentine
+Gregory Valiant
+Benjamin Van Roy
+Jelena Vuckovic
+Shan X. Wang
+Itschak Weissman
+Gordon Wetzstein
+John Weyant
+Jennifer Widom
+Keith Winstein
+H.-S. Philip Wong
+S Simon Wong
+Mary Wootters
+Paul Yock, MD
+Matei Zaharia
+Howard Zebker
+Xiaolin Zheng
+Roseanna Nellie Zia
+/#content-wrap
+/#main, /#main-wrapper
+/#content-body-lower
+/#full-width-middle
+/#content-body-bottom
+475 Via Ortega, Stanford, CA 94305
+Stanford Engineering Magazine
+Departments
+Open Faculty Positions
+Sign up for our email
+Your source for engineering research and ideas
+Stanford Home
+Maps & Directions
+Search Stanford
+Emergency Info
+Terms of Use
+Non-Discrimination
+Accessibility
+Stanford University
+/#global-footer
