@@ -13,8 +13,8 @@ import time
 host='127.0.0.1'
 port=9090
 time_start=time.time()
-table_name='faculty_usa'
-url_no=3
+table_name='eng_test'
+url_no=1
 
 c = happybase.Connection(host,port)
 

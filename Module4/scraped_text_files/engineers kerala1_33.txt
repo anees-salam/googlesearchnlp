@@ -1,0 +1,70 @@
+Association of Engineers Kerala
+.ds a: hover { text-decoration:underline; color:#F0C; }
+@font-face {
+  font-family: 'meeraregular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://smc.org.in/downloads/fonts/meera/Meera.woff2?v=7.0) format('woff2'), url(https://smc.org.in/downloads/fonts/meera/Meera.woff?v=7.0) format('woff'), url(https://smc.org.in/downloads/fonts/meera/Meera.ttf?v=7.0) format('truetype');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+.font {
+  font-family: 'meeraregular';
+}
+Member Login
+/ &nbsp;&nbsp;<button class="lgn">Sign up </button>
+State Committee
+District Committee
+<li><a href="#">DIRECTORY</a></li>
+ENGINEERS DAY
+ANNUAL SPORTS
+Downloads - Technical Writing
+BACK TO HOME PAGE
+Transfer & Posting of Assistant Engineers (LSGD) ORDER NO.E3/2100/08/CE/LSGD DATED, 03 .08.2011
+Department Head to Grant LWA
+e-tendering in LSGD
+Onam Advance to Government Employees for 2011
+BONUS AND FESTIVAL ALLOWANCE FOR GOVERNMENT EMPLOYEES AND PENSIONERS FOR 2011
+Transfer & Posting of AEEs (LSGD)
+Delegation of Powers
+Reporting to CTE
+Surprise Inspection Team
+Revised SoR 2010
+Proposed amendment to the bye-law(Draft)
+Employees leaving the country
+Transfer & Posting of AEs (Irrigation)
+Revised SoR 2010- Instruction from CE, LSGD
+Revised SoR 2010 New GO for LSGD
+Transfer & Posting of Engineers in LSGD
+PWD Manual Final Draft
+LSGD- Using maintenance grant - Clarification
+Fixation of standard rent - Uniform rates
+LSGD- Schedule rate revision - Further explanation
+Portfolios of Executive Committee Members
+TA - Revised
+GPAIS - New rules
+Submission of reports to CTE- Revised orders
+GO(MS) No.227/12/Fin
+Final List of Nomination to the Election 2013 of AOE
+2013 Nominations
+T&P of AE\'s in Irrigation: Order No. A3-5000/2012 Dated 02/06/2012
+GO(MS)178/12/LSGD, dated 27/06/2012
+Enhancement of Rates for Casual Sweepers
+Delegation of Financial Powers
+Notice for Extra Ordinary General Body Meeting on 12th October
+Euro 2013, Itenerary
+Additional Performance Guarantee
+Sanctioning tender excess, RE etc
+Cement and Steel
+CTE reporting guidelines
+Guidelines of Estimate preparation
+Revision of Cost of tender forms, EMD, Performance security deposite etc
+Labour contract co-operative Society
+Rate revision
+Acceptance of tender excess
+Submission of Estimate and RE
+General transfer norms
+TECHNICAL INFO
+Subscribe to our Newsletter!
+Mail this page
+TECHIES TALK
+© 2019 All rights reserved to Association of Engineers Kerala, Powered by sixdaysworks

@@ -12,6 +12,7 @@ from nltk.tag import StanfordNERTagger
 from itertools import groupby
 import re
 import os
+import pandas as pd
 
 
 present_dir=os.getcwd()
@@ -96,6 +97,9 @@ for file in os.listdir(inp_location):
         f.write('\n\nLIST OF phone number______\n\n')
         s1='\n'.join(extract_phone_numbers(files))
         f.write(s1)
+        
+        name=get_individuals(ne_annot_sent_7c)
+        df=pd.DataFrame({})
         
         
         

@@ -21,7 +21,7 @@ port=9090
 time_start=time.time()
 date_time_start=str(datetime.datetime.now())
 file_counter=0
-table_name='faculty_usa'
+table_name='eng_test'
 
 #table creation
 c = happybase.Connection(host,port)

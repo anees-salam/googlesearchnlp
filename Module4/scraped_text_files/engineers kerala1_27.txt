@@ -1,0 +1,77 @@
+Association of Engineers Kerala
+.ds a: hover { text-decoration:underline; color:#F0C; }
+@font-face {
+  font-family: 'meeraregular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://smc.org.in/downloads/fonts/meera/Meera.woff2?v=7.0) format('woff2'), url(https://smc.org.in/downloads/fonts/meera/Meera.woff?v=7.0) format('woff'), url(https://smc.org.in/downloads/fonts/meera/Meera.ttf?v=7.0) format('truetype');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+.font {
+  font-family: 'meeraregular';
+}
+Member Login
+/ &nbsp;&nbsp;<button class="lgn">Sign up </button>
+State Committee
+District Committee
+<li><a href="#">DIRECTORY</a></li>
+ENGINEERS DAY
+ANNUAL SPORTS
+News Updates :
+STUDY TOUR 2019
+5th State Executive Committee Meeting
+Executive committee at Kannur
+Executive committee at Kannur
+Executive committee at Kannur
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FAo8it7qUVk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Welcome to the official website of the Association of Engineers – a blanket non-profit organization of the 3000+ engineers from the Public Works, Irrigation & Local Self Government Departments of Government of Kerala.
+You may find a wide range of free materials like Technical information to assist the public as well as practicing civil engineers in the private sector, Technical papers presented by the members, Government circulars/orders pertaining to the technical matters predominantly in the area of construction and infrastructural development.
+/*<div class="more"><a href="#">Read more</a></div>*/
+UPCOMING EVENTS
+5th State Executive Committee Meeting
+The 5th State Executive Committee Meeting of Association Of Engineers Kerala is proposed to be convened at Kannur on Sunday 28th April 2019
+Venue: Engineers Centre Kannur
+Time: 10.30 AM
+<div class="more"><a href="#">View all</a></div>
+Family Space
+Achivements
+Retirements
+Visvesvaraya Medal winner 2018
+Akash S Kumar, s/o Er Santhosh Kumar P T (Assistant Executive Engineer, PWD Kozhikode) got rank 211 in KEAM 2018. Akash S Kumar is currently pursuing his B Tech in Civil Engineering at National Institute of Technology Trichy.
+<div class="more"><a href="#">Read more</a></div>
+Visvesvaraya Medal winner 2018
+Akash S Kumar, s/o Er Santhosh Kumar P T (Assistant Executive Engineer, PWD Kozhikode) got rank 211 in KEAM 2018. Akash S Kumar is currently pursuing his B Tech in Civil Engineering at National Institute of Technology Trichy.
+<div class="more"><a href="#">Read more</a></div>
+<div class="more"><a href="#">Read more</a></div>
+Retirements
+STUDY TOUR 2019
+This year's tour program of Association Of Engineers Kerala is tentatively planned from October 6th -10th to Philipines. Approximate cost will be Rs 7
+Outstanding BTech project 2018 award
+Following B Tech projects were selected as best three projects to consider the Outstanding BTech projects 2018  by Association of En
+New leaders of the Association taken Charge
+31/12/2018,Kottayam : In the Annual General Body Meeting held here, new leaders of the Association have been installed. Er. Ajithkumar V V, Executi
+Technical Writing
+Circulars & Orders
+News Letters
+Award Nomination
+Membership Form
+Election Nomination
+Parent Links
+Kerala LSGD Dept.
+Kerala Irrigation Dept.
+Other Links
+https://www.kerala.gov.in/
+https://plan.lsgkerala.gov.in
+http://prdlive.kerala.gov.in/
+http://www.keralanews.gov.in/
+http://prd.kerala.gov.in/
+https://data.gov.in/
+http://www.digitalindia.gov.in/
+https://www.mygov.in
+https://www.india.gov.in
+Software Hub
+TECHNICAL INFO
+Subscribe to our Newsletter!
+Mail this page
+TECHIES TALK
+© 2019 All rights reserved to Association of Engineers Kerala, Powered by sixdaysworks

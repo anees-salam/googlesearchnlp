@@ -1,0 +1,67 @@
+Association of Engineers Kerala
+.ds a: hover { text-decoration:underline; color:#F0C; }
+@font-face {
+  font-family: 'meeraregular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://smc.org.in/downloads/fonts/meera/Meera.woff2?v=7.0) format('woff2'), url(https://smc.org.in/downloads/fonts/meera/Meera.woff?v=7.0) format('woff'), url(https://smc.org.in/downloads/fonts/meera/Meera.ttf?v=7.0) format('truetype');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+0D01-0D7F, U+200C-U+200D, U+25CC;
+}
+.font {
+  font-family: 'meeraregular';
+}
+Member Login
+/ &nbsp;&nbsp;<button class="lgn">Sign up </button>
+State Committee
+District Committee
+<li><a href="#">DIRECTORY</a></li>
+ENGINEERS DAY
+ANNUAL SPORTS
+recent news
+STUDY TOUR 2019
+Outstanding BTech project 2018 award
+New leaders of the Association taken Charge
+AKSHARA 2018
+à´…à´•àµà´·à´° 2018
+STUDY TOUR 2019
+This year's tour program of Association Of Engineers Kerala is tentatively planned from October 6th -10th to Philipines. Approximate cost will be Rs 77000/- per person and it may vary at a later stage. Interested Engineers may contact Er Muraleedharan (Mob 9447041230) immediately before 15th May 2019. Hurry... only 50 seats are available...
+Outstanding BTech project 2018 award
+Following B Tech projects were selected as best three projects to consider the
+Outstanding BTech projects
+NIT Kozhikode won the Outstanding BTech project 2018 award.
+New leaders of the Association taken Charge
+AKSHARA 2018
+In connection with annual Sports & Cultural Festival AKSHARA 2018 , the AOEK intends to bring out a Souvenir which will cover various topics in Engineering &Technology and other subjects of interest to the general public. Articles/Technical papers, short stories and poetry  are invited for including in this Souvenir .Please send the articles with Name ,full address and a photograph to the mail Id
+[email protected]
+Last date for articles-15-11-2018
+Contact for any queries
+Souvenir committee
+Er.Rajagopalan .K 9447145167
+Er,N.Suresh kumar 9447325149
+Er.Manoj K C         9656402593
+à´…à´•àµà´·à´° 2018
+à´ªà´°à´¿à´ªà´¾à´Ÿà´¿à´•à´³à´¿àµ½ à´ªà´™àµà´•àµ†à´Ÿàµà´•àµà´•à´¾àµ» à´¤à´¾àµ½à´ªà´°àµà´¯à´®àµà´³àµà´³à´µàµ¼ à´œà´¿à´²àµà´²à´¾ à´¸àµ†à´•àµà´°à´Ÿàµà´Ÿà´±à´¿
+à´®àµà´–àµ‡à´¨ à´¤à´¾à´´àµ† à´ªà´±à´¯àµà´¨àµà´¨ à´¨à´¿à´¬à´¨àµà´§à´¨à´•àµ¾ à´ªàµà´°à´•à´¾à´°à´‚ à´ªàµà´°àµ‹à´—àµà´°à´¾à´‚ à´•à´®àµà´®à´¿à´±àµà´±à´¿à´¯àµà´®à´¾à´¯à´¿ à´¬à´¨àµà´§à´ªàµà´ªàµ†à´Ÿàµ‡à´£àµà´Ÿà´¤à´¾à´£àµ.
+1. *à´—à´¾à´¨à´®àµ‡à´³*
+*à´¨à´¿à´¬à´¨àµà´§à´¨à´•àµ¾*
+1 . à´’à´°àµ à´œà´¿à´²àµà´²à´¯à´¿àµ½ à´¨à´¿à´¨àµà´¨àµà´‚ à´°à´£àµà´Ÿàµ à´—à´¾à´¨à´™àµà´™àµ¾ à´®à´¾à´¤àµà´°à´‚ à´†à´²à´ªà´¿à´•àµà´•àµà´µà´¾à´¨à´¾à´£àµ à´…à´µà´¸à´°à´‚. à´•àµ‚à´Ÿàµà´¤àµ½ à´Žàµ»à´Ÿàµà´°à´¿à´•àµ¾ à´¸àµà´µàµ€à´•à´°à´¿à´•àµà´•àµà´¨àµà´¨à´¤à´²àµà´².
+2. à´°à´£àµà´Ÿàµ à´—à´¾à´¨à´™àµà´™àµ¾ à´¯àµà´—àµà´®à´—à´¾à´¨à´®à´¾à´¯à´¿à´Ÿàµà´Ÿàµ‹ à´’à´±àµà´±à´¯àµà´•àµà´•àµ‹ à´ªà´Ÿà´¾à´µàµà´¨àµà´¨à´¤à´¾à´£àµ.
+3. à´•à´´à´¿à´µà´¤àµà´‚ à´¶àµà´°à´¦àµà´§à´¿à´¯àµà´•àµà´•à´ªàµà´ªàµ†à´Ÿàµà´Ÿ à´ªà´¾à´Ÿàµà´Ÿàµà´•àµ¾ à´¤à´¿à´°à´žàµà´žàµ†à´Ÿàµà´•àµà´•àµà´•.
+4. à´ªà´™àµà´•àµ†à´Ÿàµà´•àµà´•àµà´¨àµà´¨à´µà´°àµà´Ÿàµ† à´µà´¿à´µà´°à´‚ ( à´ªàµ‡à´°àµ , à´“à´«àµ€à´¸àµ, à´®àµŠà´¬àµˆàµ½ à´¨à´®àµà´ªàµ¼ ,à´ªà´¾à´Ÿàµà´Ÿà´¿à´¨àµà´±àµ† à´†à´¦àµà´¯ à´µà´°à´¿à´•àµ¾, à´¸à´¿à´¨à´¿à´® à´Žà´¨àµà´¨à´¿à´µ) à´’à´•àµà´Ÿàµ‹à´¬àµ¼ 30à´¨àµ à´®àµàµ»à´ªàµ à´ªàµà´°àµ‹à´—àµà´°à´¾à´‚ à´•à´®àµà´®à´¿à´±àµà´±à´¿à´¯àµ† à´…à´±à´¿à´¯à´¿à´•àµà´•àµ‡à´£àµà´Ÿà´¤à´¾à´£àµ.
+5. à´¡à´¿à´¸à´‚à´¬àµ¼ 28-à´¨àµ à´°à´¾à´µà´¿à´²àµ† 10.30 à´¨àµ à´±à´¿à´¹àµ‡à´´àµà´¸àµ½ à´•àµà´¯à´¾à´®àµà´ªà´¿àµ½ à´•àµƒà´¤àµà´¯à´®à´¾à´¯àµà´‚ à´ªà´™àµà´•àµ†à´Ÿàµà´•àµà´•àµ‡à´£àµà´Ÿà´¤à´¾à´£àµ.
+6. à´—à´¾à´¨à´®àµ‡à´³à´¯àµà´Ÿàµ† à´ªàµ‚àµ¼à´£à´¤à´¯àµà´•àµà´•à´¾à´¯à´¿   à´®àµàµ»à´•àµ‚à´Ÿàµà´Ÿà´¿ à´°à´œà´¿à´¸àµà´±àµà´±àµ¼ à´šàµ†à´¯àµà´¯à´¾à´¤àµà´¤ à´’à´°àµ à´Žàµ»à´Ÿàµà´°à´¿à´¯àµà´‚ à´¸àµà´µàµ€à´•à´°à´¿à´•àµà´•à´ªàµà´ªàµ†à´Ÿàµà´¨àµà´¨à´¤à´²àµà´²
+7.  KK Ansar 9447570541 / R.Baji Chandran 9946771389 à´Žà´¨àµà´¨àµ€  à´¨à´®àµà´ªà´±àµà´•à´³à´¿àµ½  SMS/Wtsap à´†à´¯à´¿ à´ªàµ‡à´°àµ à´°à´œà´¿à´¸àµà´±àµà´±àµ¼ à´šàµ†à´¯àµà´¯àµà´•..
+8. à´¤à´¿à´°à´žàµà´žàµ†à´Ÿàµà´¤àµà´¤ à´ªà´¾à´Ÿàµà´Ÿàµà´•à´³àµà´Ÿàµ† à´µà´¿à´µà´°à´‚ à´¨à´µà´‚à´¬àµ¼ 5-à´¨àµ à´ªà´™àµà´•àµ†à´Ÿàµà´•àµà´•àµà´¨àµà´¨à´µà´°àµ† à´¨àµ‡à´°à´¿à´Ÿàµà´Ÿàµ à´…à´±à´¿à´¯à´¿à´•àµà´•àµà´¨àµà´¨à´¤à´¾à´£àµ.
+2. *à´®à´±àµà´±àµ à´•à´²à´¾à´ªà´°à´¿à´ªà´¾à´Ÿà´¿à´•àµ¾  à´¨à´¿à´¬à´¨àµà´§à´¨à´•àµ¾*
+1 . à´—àµà´°àµ‚à´ªàµà´ªàµ à´•à´²à´¾ à´ªà´°à´¿à´ªà´¾à´Ÿà´¿à´•àµ¾à´•àµà´•à´¾à´¯à´¿à´°à´¿à´•àµà´•àµà´‚ à´®àµàµ»à´—à´£à´¨.
+2. à´¨à´µà´‚à´¬àµ¼ 15-à´¨àµ à´®àµàµ»à´ªà´¾à´¯à´¿ à´ªà´°à´¿à´ªà´¾à´Ÿà´¿à´¯àµà´Ÿàµ† à´ªàµ‚àµ¼à´£àµà´£à´°àµ‚à´ªà´‚ à´•à´®àµà´®à´¿à´±àµà´±à´¿à´¯àµ† à´…à´±à´¿à´¯à´¿à´šàµà´šàµ à´ªàµ‡à´°àµ à´°à´œà´¿à´¸àµà´±àµà´±àµ¼ à´šàµ†à´¯àµà´¯àµ‡à´£àµà´Ÿà´¤à´¾à´£àµ.
+3. Audio à´ªàµà´²àµ‡ à´šàµ†à´¯àµà´¯àµ‡à´£àµà´Ÿ à´‡à´¨à´™àµà´™à´³àµà´Ÿàµ† Audio à´¡à´¿à´¸à´‚à´¬àµ¼ 12-à´¨àµ à´®àµàµ»à´ªàµ à´²à´­àµà´¯à´®à´¾à´•àµà´•àµ‡à´£àµà´Ÿà´¤à´¾à´£àµ.
+4. à´®àµàµ»à´•àµ‚à´Ÿàµà´Ÿà´¿ Audio à´¸à´œàµà´œàµ€à´•à´°à´¿à´•àµà´•à´¾à´¨àµà´³àµà´³à´¤à´¿à´¨à´¾àµ½ à´¡à´¿à´¸à´‚à´¬àµ¼ 12-à´¨àµ à´¶àµ‡à´·à´‚ à´²à´­à´¿à´•àµà´•àµà´¨àµà´¨ Audio clip à´¨àµà´±àµ† à´ªà´°à´¿à´ªà´¾à´Ÿà´¿ à´’à´´à´¿à´µà´¾à´•àµà´•à´ªàµà´ªàµ†à´Ÿàµà´¨àµà´¨à´¤à´¾à´¯à´¿à´°à´¿à´•àµà´•àµà´‚.
+6. à´¬à´¨àµà´§à´ªàµà´ªàµ†à´Ÿàµ‡à´£àµà´Ÿ à´¨à´®àµà´ªàµ¼
+R.BajiChandran 9946771389 /
+KK Ansar  9447570541.
+TECHNICAL INFO
+Subscribe to our Newsletter!
+Mail this page
+TECHIES TALK
+© 2019 All rights reserved to Association of Engineers Kerala, Powered by sixdaysworks

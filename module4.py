@@ -5,12 +5,12 @@ Created on Wed May  8 11:23:02 2019
 
 @author: anees
 """
-from pyspark import SparkContext
+#from pyspark import SparkContext
 import bs4
 import os
 
 
-sc=SparkContext()
+#sc=SparkContext()
 
 present_dir=os.getcwd()
 
@@ -34,16 +34,16 @@ for file in os.listdir(inp_location):
             print('')
         elif not child.isspace(): # leaf node, don't print spaces
             line=child.strip()
-            if (len(line)>10) and (len(line)<100) :
+            if (len(line)>10) and (len(line)<500) :
                 array.append(line)
                 f.write(line)
                 f.write('\n')
                 
-    outfile=sc.parallelize(array)
-    outfile.saveAsTextFile(spark_location+'/'+str(file).split('.')[0])
+    #outfile=sc.parallelize(array)
+    #outfile.saveAsTextFile(spark_location+'/'+str(file).split('.')[0])
     f.close()
 
-sc.stop()
+#sc.stop()
     
             
              
