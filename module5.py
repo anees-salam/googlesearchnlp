@@ -51,7 +51,7 @@ def extract_email_addresses(string):
 
 
 for file in os.listdir(inp_location):
-        f = open(outp_location+'/'+str(file).split('.')[0]+'.txt', 'w') 
+        #f = open(outp_location+'/'+str(file).split('.')[0]+'.txt', 'w') 
         readf = open(inp_location+'/'+file, "r")
         files=readf.read()
 
@@ -74,34 +74,51 @@ for file in os.listdir(inp_location):
                 if annot_token[1] == 'ORGANIZATION':
                     organization_sn_7class.append(annot_token[0])
         
-        f.write('\n\nLIST OF PERSONS______\n\n')
-        s1='\n'.join(persons_sn_7class)
-        f.write(s1)
+      
         
-        f.write('\n\nFULL NAME______\n\n')
-        s1='\n'.join(get_individuals(ne_annot_sent_7c))
-        f.write(s1)
-        
-        f.write('\n\nLIST OF LOCATION______\n\n')
-        s1='\n'.join(location_sn_7class)
-        f.write(s1)
-        
-        f.write('\n\nLIST OF ORGANIZATION______\n\n')
-        s1='\n'.join(organization_sn_7class)
-        f.write(s1)
-        
-        f.write('\n\nLIST OF email______\n\n')
-        s1='\n'.join(extract_email_addresses(files))
-        f.write(s1)
-        
-        f.write('\n\nLIST OF phone number______\n\n')
-        s1='\n'.join(extract_phone_numbers(files))
-        f.write(s1)
-        
-        name=get_individuals(ne_annot_sent_7c)
-        df=pd.DataFrame({})
+        fullname=get_individuals(ne_annot_sent_7c)
+        email=extract_email_addresses(files)
+        phone=extract_phone_numbers(files)
         
         
+# =============================================================================
+#         f.write('\n\nLIST OF PERSONS______\n\n')
+#         s1='\n'.join(persons_sn_7class)
+#         f.write(s1)
+#         f.write('\n\nFULL NAME______\n\n')
+#         s1='\n'.join(fullname)
+#         f.write(s1)
+#         
+#         f.write('\n\nLIST OF LOCATION______\n\n')
+#         s1='\n'.join(location_sn_7class)
+#         f.write(s1)
+#         
+#         f.write('\n\nLIST OF ORGANIZATION______\n\n')
+#         s1='\n'.join(organization_sn_7class)
+#         f.write(s1)
+#         
+#         
+#         f.write('\n\nLIST OF email______\n\n')
+#         s1='\n'.join(email)
+#         f.write(s1)
+#         
+#         f.write('\n\nLIST OF phone number______\n\n')
+#         s1='\n'.join(phone)
+#         f.write(s1)
+# =============================================================================
         
-        f.close()
+        
+        full=pd.Series(fullname)
+        df=pd.DataFrame(organization_sn_7class,columns=['Company'])
+        df['Name']=pd.Series(persons_sn_7class)
+        df['Full Name']=pd.Series(fullname)
+        df['Location']=pd.Series(location_sn_7class)
+        
+        df['Phone']=pd.Series(phone)
+        df['Email']=pd.Series(email)  
+        
+        df.to_csv(outp_location+'/'+str(file).split('.')[0]+'.csv')
+        
+        
+        #f.close()
         readf.close()
