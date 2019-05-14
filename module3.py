@@ -31,8 +31,15 @@ url_no=3
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.3'}
 client_hdfs = InsecureClient('http://localhost:50070')
 
+#################################function definition below#################################
 
-
+def html_parse(link):
+    req=Request(link,headers=headers)        
+    page=urlopen(req).read()            
+    soup=bs4.BeautifulSoup(page,features="lxml")            
+    html_text=soup.prettify()
+    return html_text,soup
+    
 
 def local_file_write(searchterm,urlno,html):
     f = open(location+'/'+searchterm+str(urlno)+'.html', 'w')   #new html file creation
@@ -45,50 +52,34 @@ def hdfs_file_write(searchterm,urlno,html) :
                 writer.write(html)
 
 
-def hbase_embeddurl_table(searchterm,urlno,souper):
+def embeddurl_table(searchterm,urlno,souper):
     i=1
     for link in souper.findAll('a', attrs={'href': re.compile("^http://")}):
         if(i<5):
-            with suppress(Exception):
-                
-                req1=Request(str(link.get('href')),headers=headers)        # html download using urllib
-                page1=urlopen(req1).read()            
-                soup1=bs4.BeautifulSoup(page1,features="lxml")            #formatting html using beautiful soup
-                htmltext1=soup1.prettify()
-                print(str(urlno)+'_'+str(i))
-                local_file_write(searchterm,str(urlno)+'_'+str(i),htmltext1)
-        #else:
-        #    break
+            [htmltext1,s]=html_parse(str(link.get('href')))
+            print(str(urlno)+'_'+str(i))
+            local_file_write(searchterm,str(urlno)+'_'+str(i)+'atag',htmltext1)
+        else:
+            break
         i+=1
         
-        
 
-def bfs_html(searchterm1,urlno1,souper1,url):
+def bfs_html(searchterm1,urlno1,url,souper1):  
     allItems = souper1.findAll("a", href = True)
-    junk=[]
     visited=[]
+    
     i=0
-    #print(allItems)
     for item in allItems:
-        
+        i+=1
         item["href"] = urljoin(url, item["href"])
         if url in item["href"] and item["href"] not in visited:
-            req1=Request(str(item["href"]),headers=headers)        # html download using urllib
-            page1=urlopen(req1).read()            
-            soup1=bs4.BeautifulSoup(page1,features="lxml")            #formatting html using beautiful soup
-            htmltext1=soup1.prettify()
+            visited.append(item["href"])
+            [htmltext1,s]=html_parse(str(item["href"]))
             print(str(urlno1)+'_'+str(i))
             local_file_write(searchterm1,str(urlno1)+'_'+str(i),htmltext1)
-            visited.append(item["href"])
-            #print(item["href"])
-        if url not in item["href"]:
-            junk.append(item["href"]) 
-        i+=1
-        
-
             
-
-
+            
+##################################main code################################################        
 time_start=time.time()
 date_time_start=str(datetime.datetime.now())
 file_counter=0
@@ -123,15 +114,11 @@ for key, data in table.scan():
             url=str(row[byt_str]).split('\'')[1]      #converting url column family columns from bytes to string
             print(keyword+":"+str(k)+"\t"+url)
         
-            req=Request(url,headers=headers)        # html download using urllib
-            page=urlopen(req).read()            
-            soup=bs4.BeautifulSoup(page,features="lxml")            #formatting html using beautiful soup
-            htmltext=soup.prettify()
-            
+            [htmltext,soup]=html_parse(url)
             local_file_write(keyword,k,htmltext)
             #hdfs_file_write(keyword,k,htmltext)
-            #hbase_embeddurl_table(keyword,k,soup)
-            bfs_html(keyword,k,soup,url)
+            #embeddurl_table(keyword,k,soup)
+            bfs_html(keyword,k,url,soup)
             file_counter+=1
             
 
